@@ -1,9 +1,9 @@
 # This program explores Python syntax, variables, data types, and basic operators.
 
 # 1. Declare variables of different types
-name = "Sparky"  # string
-age = 25        # integer
-height = 5.6     # float
+name = "Mhykee"  # string
+age = 18        # integer
+height = 168.5     # float
 is_student = True  # boolean
 
 # 2. Perform basic arithmetic operations
@@ -13,6 +13,8 @@ product_result = age * height
 # 3. Concatenate strings and display outputs
 greeting = "Hello, " + name + "!"
 print(greeting)
+
+# print("Hello,", name)
 
 # 4. Display results of arithmetic operations
 print("Sum of age and height:", sum_result)
